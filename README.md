@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Christenally/Testimonials-Grid)
-- Live Site URL: (https://christenally.github.io/Testimonials-Gridlk)
+- Live Site URL: (https://christenally.github.io/Testimonials-Grid)
 
 ### Built with
 
