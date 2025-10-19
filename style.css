@@ -135,7 +135,7 @@ body {
 .box-1 {
   grid-column: span 2;
   background-color: var(--purple-500);
-  background-image: url(./images/bg-pattern-quotation.svg);
+  background-image: url(../images/bg-pattern-quotation.svg);
   background-repeat: no-repeat;
   background-position: right 17% bottom 100%;
 }
@@ -304,4 +304,5 @@ body {
     background-image: none;
   }
 }
+
 
